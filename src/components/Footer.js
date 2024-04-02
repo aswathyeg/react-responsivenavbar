@@ -8,6 +8,7 @@ import {
 	Column,
 	FooterLink,
 	Heading,
+	
 } from "./FooterStyles";
 
 const Footer = () => {
@@ -22,6 +23,8 @@ const Footer = () => {
 			>
 				{/* A Computer Science Portal for Geeks! */}
 			</h1>
+			
+			
 			<FooterContainer>
 				<Row>
 					<Column>

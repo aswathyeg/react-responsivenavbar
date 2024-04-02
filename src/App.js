@@ -13,6 +13,7 @@ function App() {
 				}}
 			>
 				<h1>Footer</h1>
+				
 			</div>
 			<Footer />
 		</div>
